@@ -33,7 +33,7 @@ body {
   .trending_coin {
     background-color: #CAF0F8;
     padding: 2rem;
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
   }
   
    .trending_coin > .scroll_animation {
